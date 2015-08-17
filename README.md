@@ -1,10 +1,8 @@
-# jMate plugin v0.0.1
+#Speed Reader  v0.1
 
-_Note: This plugin is currently in alpha form (and the very early stages at that!). Please use at your own risk._
+Speed Reader is a Python based game, played in a terminal, that teaches you how to read sheet music.
 
-jMate provides a browser-based chess board upon which chess games can be played.
-
-Documentation for the jMate plugin does not yet exist.
+As of version 0.1 it requires colorama and either (tty & termios) or msvcrt.
 
 ## Copyright
-Copyright &copy; 2011 Kevin W. Gisi. Released under the MIT License.
+Copyright &copy; 2015 Alex Bragdon. Released under the MIT License.
