@@ -6,7 +6,9 @@ As of version 0.1 it requires Python v3, colorama and either (tty & termios) or 
 
 #Usage
 
-python3 speedReader.py 
+```
+python3 speedReader.py
+```
 
 ## Copyright
 Copyright &copy; 2015 Alex Bragdon. Released under the MIT License.
