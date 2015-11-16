@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#Adapted from: http://stackoverflow.com/questions/32671306/how-can-i-read-keyboard-input-in-python
+#usr/bin/env python
 
 import sys
 
